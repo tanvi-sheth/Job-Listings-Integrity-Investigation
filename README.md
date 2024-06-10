@@ -1,7 +1,7 @@
 # Job-Listings-Integrity-Investigation
 Machine Learning and Nature Language Processing for investigating the integrity of Job Listings
 
-Group member: Dian Jin, Mingze Wu, Tanvi Sheth, Sneha Sunil Ekka, Jenil Shah
+Group members: Dian Jin, Mingze Wu, Tanvi Sheth, Sneha Sunil Ekka, Jenil Shah
 
 ## Job Listing Integrity Investigation
 
